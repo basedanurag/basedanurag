@@ -99,18 +99,9 @@ Content Creation
 
 ------------------------------------------------------------------------
 
-## 🌐 Connect with Me
+##🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basedanurag/)\
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/basedanurag)\
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/basedanurag/)\
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://basedanuragportfolio.netlify.app/)\
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basedanurag.work@gmail.com)
-
+<p align="left"> <a href="https://www.linkedin.com/in/basedanurag/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/> </a> &nbsp;&nbsp; <a href="https://github.com/basedanurag"> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" height="40"/> </a> &nbsp;&nbsp; <a href="https://leetcode.com/u/basedanurag/"> <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/> </a> &nbsp;&nbsp; <a href="https://basedanuragportfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:basedanurag.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/> </a> </p>
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
