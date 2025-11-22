@@ -67,21 +67,6 @@ Gradle\
 
 ------------------------------------------------------------------------
 
-## 📌 Featured Projects
-
-### **🔹 AI-Powered Code Review Agent**
-
-A smart assistant that scans codebases, catches logic/performance
-issues, and suggests improvements using ML + NLP models.
-
-### **🔹 DevKit-Java: The Offline Developer's Toolbox**
-
-A standalone JavaFX desktop suite offering 20+ tools --- JSON/YAML
-formatters, JWT/Base64 utilities, UUID/hash generators, and more.\
-Packaged using **jpackage** for cross-platform use.
-
-------------------------------------------------------------------------
-
 ## 🏆 Achievements
 
 -   Participant --- **DoraHacks ICP Hackathon**\
